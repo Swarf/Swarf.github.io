@@ -1,0 +1,4 @@
+[submodule "flashcard"]
+	path = flashcard
+	url = git@github.com:Swarf/MiscWeb.git
+	branch = flashcard
